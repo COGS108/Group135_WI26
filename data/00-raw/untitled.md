@@ -1,0 +1,1 @@
+## We edited gitignore so that we can push the raptor_raw.json and darko_raw.json to github. 
