@@ -1,8 +1,8 @@
 # ignore my checkpoints
-01-*.ipynb
-02-*.ipynb
-03-*.ipynb
-.ipynb_checkpoints/*
+#01-*.ipynb
+#02-*.ipynb
+#03-*.ipynb
+#.ipynb_checkpoints/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
