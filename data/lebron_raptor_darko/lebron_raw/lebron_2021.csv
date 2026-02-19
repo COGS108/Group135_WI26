@@ -1,0 +1,408 @@
+nba_id,Player,Seasons,Team,Pos,MPG,LEBRON,O-LEBRON,D-LEBRON,WAR,OffRole,DefRole
+2544,Lebron James,2021,LAL,PG,33.415,4.368,4.117,0.25,6.455,Shot Creator,Helper
+2546,Carmelo Anthony,2021,POR,PF,24.493,-1.291,0.641,-1.932,1.201,Shot Creator,Low Activity
+2730,Dwight Howard,2021,PHI,C,17.326,-0.252,-1.056,0.804,1.649,Roll + Cut Big,Anchor Big
+2738,Andre Iguodala,2021,MIA,SF,21.249,-0.665,-1.782,1.116,1.49,Stationary Shooter,Helper
+2772,Trevor Ariza,2021,MIA,SF,28.032,0.494,-0.711,1.205,1.564,Stationary Shooter,Wing Stopper
+101108,Chris Paul,2021,PHO,PG,31.42,3.606,2.224,1.382,8.424,Shot Creator,Chaser
+101150,Lou Williams,2021,LAC/ATL,PG,21.56,-1.195,0.186,-1.381,1.099,Slasher,Low Activity
+200746,Lamarcus Aldridge,2021,SAS/BRK,C,25.94,0.274,-0.258,0.532,1.159,Post Scorer,Anchor Big
+200752,Rudy Gay,2021,SAS,PF,21.549,0.342,0.406,-0.064,2.393,Movement Shooter,Wing Stopper
+200755,Jj Redick,2021,NOP/DAL,SG,16.438,-1.31,0.135,-1.445,0.505,Off Screen Shooter,Low Activity
+200765,Rajon Rondo,2021,ATL/LAC,PG,17.096,-1.758,-0.872,-0.887,0.317,Primary Ball Handler,Chaser
+200768,Kyle Lowry,2021,TOR,PG,34.815,0.934,0.91,0.024,3.433,Primary Ball Handler,Chaser
+200782,P.J. Tucker,2021,HOU/MIL,PF,26.07,-2.92,-3.417,0.497,-0.436,Stationary Shooter,Wing Stopper
+200794,Paul Millsap,2021,DEN,PF,20.755,1.31,-0.139,1.448,2.772,Versatile Big,Helper
+201142,Kevin Durant,2021,BRK,PF,33.048,3.241,3.681,-0.44,4.17,Shot Creator,Wing Stopper
+201143,Al Horford,2021,OKC,C,27.921,2.39,0.457,1.933,2.402,Versatile Big,Anchor Big
+201144,Mike Conley,2021,UTA,PG,29.365,2.868,2.751,0.117,5.051,Primary Ball Handler,Point of Attack
+201145,Jeff Green,2021,BRK,PF,26.987,-0.335,0.388,-0.724,2.432,Stationary Shooter,Wing Stopper
+201152,Thaddeus Young,2021,CHI,PF,24.298,1.454,1.387,0.067,4.093,Post Scorer,Anchor Big
+201188,Marc Gasol,2021,LAL,C,19.099,0.166,-1.857,2.023,1.637,Stretch Big,Anchor Big
+201565,Derrick Rose,2021,DET/NYK,PG,25.578,0.067,0.759,-0.692,2.027,Slasher,Point of Attack
+201566,Russell Westbrook,2021,WAS,PG,36.445,2.646,1.272,1.373,7.659,Shot Creator,Point of Attack
+201567,Kevin Love,2021,CLE,PF,24.889,1.784,1.338,0.446,1.672,Versatile Big,Helper
+201568,Danilo Gallinari,2021,ATL,PF,23.959,-0.295,0.617,-0.912,1.651,Shot Creator,Helper
+201569,Eric Gordon,2021,HOU,SG,29.212,-0.562,0.708,-1.27,0.93,Primary Ball Handler,Chaser
+201571,D.J. Augustin,2021,MIL/HOU,PG,19.806,-0.86,0.511,-1.37,1.115,Primary Ball Handler,Point of Attack
+201572,Brook Lopez,2021,MIL,C,27.169,1.511,0.274,1.237,4.78,Stretch Big,Anchor Big
+201577,Robin Lopez,2021,WAS,C,19.065,-1.164,-1.201,0.038,1.073,Post Scorer,Anchor Big
+201580,Javale Mcgee,2021,CLE/DEN,C,14.748,0.221,-1.06,1.281,1.143,Post Scorer,Anchor Big
+201586,Serge Ibaka,2021,LAC,C,23.287,1.753,0.53,1.223,2.548,Stretch Big,Anchor Big
+201587,Nicolas Batum,2021,LAC,SF,27.384,0.985,-0.067,1.051,3.992,Stationary Shooter,Helper
+201588,George Hill,2021,OKC/PHI,PG,22.386,-1.084,-0.26,-0.824,0.566,Secondary Ball Handler,Chaser
+201599,Deandre Jordan,2021,BRK,C,21.863,0.077,-0.949,1.026,1.984,Roll + Cut Big,Anchor Big
+201609,Goran Dragic,2021,MIA,PG,26.732,-1.603,-0.342,-1.261,0.683,Primary Ball Handler,Chaser
+201933,Blake Griffin,2021,DET/BRK,PF,25.797,1.117,0.752,0.365,2.683,Shot Creator,Helper
+201935,James Harden,2021,HOU/BRK,PG,36.564,3.819,4.6,-0.781,6.371,Shot Creator,Helper
+201937,Ricky Rubio,2021,MIN,PG,26.052,0.739,0.773,-0.034,3.575,Primary Ball Handler,Point of Attack
+201939,Stephen Curry,2021,GSW,PG,34.156,4.685,5.514,-0.829,9.645,Primary Ball Handler,Low Activity
+201942,Demar Derozan,2021,SAS,PF,33.712,1.331,2.327,-0.996,4.932,Shot Creator,Low Activity
+201949,James Johnson,2021,DAL/NOP,PF,20.556,-1.174,-1.461,0.287,0.824,Stationary Shooter,Wing Stopper
+201950,Jrue Holiday,2021,MIL,PG,32.321,2.887,1.939,0.949,6.454,Shot Creator,Point of Attack
+201952,Jeff Teague,2021,BOS/MIL,PG,17.276,-2.064,-1.302,-0.763,0.206,Shot Creator,Point of Attack
+201959,Taj Gibson,2021,NYK,C,20.793,0.455,-1.332,1.787,1.717,Roll + Cut Big,Mobile Big
+201961,Wayne Ellington,2021,DET,SG,21.996,-1.244,0.117,-1.361,0.749,Off Screen Shooter,Chaser
+201976,Patrick Beverley,2021,LAC,PG,22.499,0.732,-0.499,1.231,1.676,Primary Ball Handler,Point of Attack
+201980,Danny Green,2021,PHI,SF,28.034,-0.029,-0.354,0.325,2.946,Movement Shooter,Chaser
+201988,Patty Mills,2021,SAS,PG,24.775,-1.532,0.472,-2.004,0.937,Secondary Ball Handler,Chaser
+202066,Garrett Temple,2021,CHI,SG,27.29,-2.39,-2.382,-0.009,0.017,Stationary Shooter,Point of Attack
+202083,Wesley Matthews,2021,LAL,SG,19.48,-0.755,-1.275,0.52,1.192,Movement Shooter,Wing Stopper
+202322,John Wall,2021,HOU,PG,32.202,-0.603,0.69,-1.293,1.485,Shot Creator,Point of Attack
+202324,Derrick Favors,2021,UTA,C,15.282,0.588,-0.878,1.467,1.996,Roll + Cut Big,Anchor Big
+202326,Demarcus Cousins,2021,HOU/LAC,C,17.388,1.208,-0.625,1.832,1.653,Versatile Big,Anchor Big
+202329,Al-Farouq Aminu,2021,ORL/CHI,PF,18.875,-1.749,-2.676,0.927,0.182,Movement Shooter,Mobile Big
+202330,Gordon Hayward,2021,CHO,SF,34.004,-0.057,0.186,-0.243,2.252,Secondary Ball Handler,Helper
+202331,Paul George,2021,LAC,SF,33.722,3.535,2.444,1.091,6.895,Shot Creator,Chaser
+202334,Ed Davis,2021,MIN,C,12.997,0.032,-1.776,1.808,0.467,Athletic Finisher,Anchor Big
+202335,Patrick Patterson,2021,LAC,PF,15.307,-0.97,-0.282,-0.688,0.533,Stationary Shooter,Helper
+202339,Eric Bledsoe,2021,NOP,SG,29.739,-0.346,-0.196,-0.15,2.784,Primary Ball Handler,Point of Attack
+202340,Avery Bradley,2021,MIA/HOU,SG,22.291,-2.48,-1.455,-1.025,-0.027,Movement Shooter,Wing Stopper
+202355,Hassan Whiteside,2021,SAC,C,15.164,-0.381,-1.271,0.89,0.707,Post Scorer,Anchor Big
+202357,Nemanja Bjelica,2021,SAC/MIA,PF,16.085,-0.577,-0.09,-0.487,0.696,Stretch Big,Helper
+202397,Ish Smith,2021,WAS,PG,20.991,0.384,-0.573,0.957,1.653,Slasher,Point of Attack
+202681,Kyrie Irving,2021,BRK,PG,34.93,3.458,4.569,-1.111,7.052,Shot Creator,Point of Attack
+202683,Enes Freedom,2021,POR,C,24.411,1.409,1.88,-0.471,4.304,Post Scorer,Anchor Big
+202684,Tristan Thompson,2021,BOS,C,23.828,0.129,-1.201,1.33,2.091,Post Scorer,Anchor Big
+202685,Jonas Valančiūnas,2021,MEM,C,28.312,3.025,1.906,1.12,6.092,Post Scorer,Anchor Big
+202687,Bismack Biyombo,2021,CHO,C,20.438,-2.659,-2.924,0.265,-0.214,Athletic Finisher,Helper
+202689,Kemba Walker,2021,BOS,PG,31.844,1.924,2,-0.076,3.802,Primary Ball Handler,Point of Attack
+202692,Alec Burks,2021,NYK,SG,25.602,-0.161,0.36,-0.521,1.803,Secondary Ball Handler,Chaser
+202693,Markieff Morris,2021,LAL,PF,19.673,-2.403,-2.048,-0.354,0.004,Versatile Big,Helper
+202694,Marcus Morris Sr.,2021,LAC,PF,26.35,0.459,0.669,-0.211,2.76,Shot Creator,Helper
+202695,Kawhi Leonard,2021,LAC,SF,34.088,4.925,3.665,1.26,8.197,Shot Creator,Wing Stopper
+202696,Nikola Vučević,2021,ORL/CHI,C,33.547,1.035,0.384,0.651,5.186,Versatile Big,Anchor Big
+202699,Tobias Harris,2021,PHI,PF,32.491,1.235,0.328,0.907,4.708,Shot Creator,Helper
+202704,Reggie Jackson,2021,LAC,SG,23.046,1,0.641,0.359,3.376,Primary Ball Handler,Point of Attack
+202709,Cory Joseph,2021,SAC/DET,PG,22.954,-1.083,-0.87,-0.213,1.221,Primary Ball Handler,Point of Attack
+202710,Jimmy Butler Iii,2021,MIA,SF,33.551,5.232,3.627,1.605,8.38,Shot Creator,Helper
+202711,Bojan Bogdanović,2021,UTA,SF,30.772,-0.337,1.141,-1.478,2.934,Movement Shooter,Helper
+202722,Davis Bertans,2021,WAS,PF,25.68,0.017,0.698,-0.68,2.273,Off Screen Shooter,Helper
+202734,E'Twaun Moore,2021,PHO,SG,14.398,-1.862,-1.352,-0.51,0.134,Secondary Ball Handler,Chaser
+202954,Brad Wanamaker,2021,GSW/CHO,PG,17.266,-1.295,-1.387,0.092,0.746,Primary Ball Handler,Point of Attack
+203076,Anthony Davis,2021,LAL,PF,32.271,3.372,2.033,1.339,4.282,Shot Creator,Helper
+203078,Bradley Beal,2021,WAS,SG,35.786,2.233,3.486,-1.253,6.383,Off Screen Shooter,Chaser
+203081,Damian Lillard,2021,POR,PG,35.789,3.724,5.613,-1.889,9.357,Shot Creator,Chaser
+203082,Terrence Ross,2021,ORL,SG,29.273,-2.321,-1.218,-1.103,0.073,Off Screen Shooter,Low Activity
+203083,Andre Drummond,2021,CLE/LAL,C,26.993,1.731,-0.243,1.974,3.295,Shot Creator,Anchor Big
+203084,Harrison Barnes,2021,SAC,PF,36.248,0.016,0.645,-0.628,3.263,Shot Creator,Wing Stopper
+203085,Austin Rivers,2021,NYK/DEN,SG,23.47,-1.758,-0.565,-1.193,0.348,Shot Creator,Chaser
+203087,Jeremy Lamb,2021,IND,SG,21.257,0.382,0.682,-0.299,1.369,Secondary Ball Handler,Helper
+203090,Maurice Harkless,2021,MIA/SAC,SF,20.862,-2.113,-2.333,0.22,0.144,Stationary Shooter,Wing Stopper
+203095,Evan Fournier,2021,ORL/BOS,SF,29.976,0.02,0.237,-0.217,1.957,Off Screen Shooter,Chaser
+203107,Tomas Satoransky,2021,CHI,SG,22.528,-0.366,-0.675,0.309,1.706,Primary Ball Handler,Point of Attack
+203109,Jae Crowder,2021,PHO,PF,27.472,0.008,-0.565,0.573,2.55,Stationary Shooter,Wing Stopper
+203110,Draymond Green,2021,GSW,PF,31.457,2.044,-0.468,2.512,5.655,Stretch Big,Helper
+203114,Khris Middleton,2021,MIL,SF,33.363,1.849,1.513,0.336,6.192,Shot Creator,Helper
+203115,Will Barton,2021,DEN,SF,30.996,0.129,-0.002,0.131,2.82,Secondary Ball Handler,Chaser
+203118,Mike Scott,2021,PHI,PF,16.698,-1.836,-2.164,0.328,0.308,Stationary Shooter,Helper
+203145,Kent Bazemore,2021,GSW,SF,19.903,-0.346,-1.855,1.509,1.758,Movement Shooter,Chaser
+203200,Justin Holiday,2021,IND,SG,30.324,-1.48,-0.832,-0.648,1.288,Movement Shooter,Wing Stopper
+203210,Jamychal Green,2021,DEN,PF,19.309,-0.915,-0.694,-0.221,1.066,Stretch Big,Helper
+203382,Aron Baynes,2021,TOR,C,18.496,-2.041,-2.58,0.54,0.228,Stretch Big,Anchor Big
+203457,Nerlens Noel,2021,NYK,C,24.167,-1.356,-3.748,2.392,1.034,Athletic Finisher,Mobile Big
+203458,Alex Len,2021,TOR/WAS,C,15.294,-0.356,-2.366,2.01,1.284,Roll + Cut Big,Anchor Big
+203463,Ben Mclemore,2021,HOU/LAL,SG,17.07,-1.1,0.216,-1.316,0.754,Off Screen Shooter,Low Activity
+203468,Cj Mccollum,2021,POR,SG,34.034,2.502,3.147,-0.644,5.028,Shot Creator,Chaser
+203469,Cody Zeller,2021,CHO,C,20.946,0.526,-0.018,0.544,1.891,Roll + Cut Big,Helper
+203471,Dennis Schröder,2021,LAL,SG,32.07,-0.764,-0.561,-0.203,2.053,Slasher,Point of Attack
+203473,Dewayne Dedmon,2021,MIA,C,13.155,0.525,-0.172,0.697,0.396,Roll + Cut Big,Helper
+203476,Gorgui Dieng,2021,MEM/SAS,C,14.546,-0.343,-0.385,0.043,0.73,Stretch Big,Anchor Big
+203482,Kelly Olynyk,2021,MIA/HOU,PF,28.529,2.009,1.365,0.643,5.653,Movement Shooter,Helper
+203484,Kentavious Caldwell-Pope,2021,LAL,SG,28.39,-1.49,-1.57,0.08,1.11,Movement Shooter,Wing Stopper
+203486,Mason Plumlee,2021,DET,C,26.762,0.334,-1.387,1.72,2.633,Post Scorer,Anchor Big
+203487,Michael Carter-Williams,2021,ORL,SG,25.794,-1.192,-2.323,1.131,0.619,Slasher,Point of Attack
+203488,Mike Muscala,2021,OKC,C,18.441,-0.298,-0.291,-0.007,0.871,Movement Shooter,Anchor Big
+203490,Otto Porter Jr.,2021,CHI/ORL,SF,21.67,-0.297,-0.283,-0.014,0.819,Movement Shooter,Low Activity
+203493,Reggie Bullock Jr.,2021,NYK,SF,29.989,-1.769,-1.402,-0.367,0.789,Movement Shooter,Wing Stopper
+203496,Robert Covington,2021,POR,PF,32.039,1.35,-0.894,2.244,5.406,Movement Shooter,Wing Stopper
+203497,Rudy Gobert,2021,UTA,C,30.799,5.455,1.201,4.254,10.786,Roll + Cut Big,Anchor Big
+203500,Steven Adams,2021,NOP,C,27.666,-0.555,-1.468,0.913,1.899,Roll + Cut Big,Mobile Big
+203501,Tim Hardaway Jr.,2021,DAL,SG,28.419,-0.465,1.064,-1.529,2.471,Movement Shooter,Chaser
+203503,Tony Snell,2021,ATL,SG,21.107,-3.334,-2.218,-1.116,-0.574,Stationary Shooter,Wing Stopper
+203504,Trey Burke,2021,DAL,PG,14.739,-0.98,0.254,-1.234,0.832,Secondary Ball Handler,Point of Attack
+203506,Victor Oladipo,2021,IND/HOU/MIA,SG,32.73,0.812,0.398,0.415,2.231,Primary Ball Handler,Chaser
+203507,Giannis Antetokounmpo,2021,MIL,PF,32.997,6.638,4.104,2.534,11.269,Shot Creator,Helper
+203516,James Ennis Iii,2021,ORL,SF,24.054,-1.179,-1.649,0.469,0.771,Movement Shooter,Helper
+203521,Matthew Dellavedova,2021,CLE,PG,17.238,-0.507,-0.365,-0.142,0.272,Primary Ball Handler,Point of Attack
+203524,Solomon Hill,2021,ATL,PF,21.316,-2.453,-2.229,-0.224,-0.044,Stationary Shooter,Wing Stopper
+203526,Raul Neto,2021,WAS,PG,21.923,0.336,-0.417,0.753,2.467,Secondary Ball Handler,Point of Attack
+203552,Seth Curry,2021,PHI,SG,28.744,-0.747,-0.386,-0.361,1.737,Secondary Ball Handler,Low Activity
+203897,Zach Lavine,2021,CHI,SG,35.062,0.443,1.955,-1.512,3.716,Primary Ball Handler,Chaser
+203901,Elfrid Payton,2021,NYK,PG,23.563,-2.485,-0.851,-1.634,-0.072,Slasher,Point of Attack
+203903,Jordan Clarkson,2021,UTA,SG,26.729,0.849,2.116,-1.267,3.796,Shot Creator,Low Activity
+203914,Gary Harris,2021,DEN/ORL,SG,27.698,-1.733,-1.213,-0.52,0.463,Movement Shooter,Wing Stopper
+203918,Rodney Hood,2021,POR/TOR,SF,17.138,-3.649,-2.577,-1.071,-0.728,Shot Creator,Chaser
+203920,Khem Birch,2021,ORL/TOR,C,22.825,-0.956,-1.788,0.832,1.416,Roll + Cut Big,Anchor Big
+203922,Glenn Robinson Iii,2021,SAC,SF,16.057,-2.81,-1.485,-1.325,-0.094,Movement Shooter,Wing Stopper
+203924,Jerami Grant,2021,DET,SF,33.876,0.051,0.267,-0.216,2.881,Shot Creator,Wing Stopper
+203925,Joe Harris,2021,BRK,SF,31.033,0.328,0.996,-0.668,3.754,Off Screen Shooter,Chaser
+203926,Doug Mcdermott,2021,IND,PF,24.533,-1.437,0.943,-2.38,1,Off Screen Shooter,Low Activity
+203932,Aaron Gordon,2021,ORL/DEN,PF,27.676,-0.09,-0.228,0.138,2.053,Versatile Big,Wing Stopper
+203935,Marcus Smart,2021,BOS,PG,32.942,1.341,0.331,1.01,3.802,Primary Ball Handler,Point of Attack
+203937,Kyle Anderson,2021,MEM,PF,27.353,2.651,0.675,1.976,6.108,Secondary Ball Handler,Wing Stopper
+203939,Dwight Powell,2021,DAL,C,16.648,0.48,-0.723,1.203,1.787,Roll + Cut Big,Anchor Big
+203944,Julius Randle,2021,NYK,PF,37.562,0.266,0.15,0.116,4.569,Shot Creator,Helper
+203952,Andrew Wiggins,2021,GSW,PF,33.3,-0.131,-0.76,0.629,3.445,Shot Creator,Wing Stopper
+203954,Joel Embiid,2021,PHI,C,31.083,4.908,3.84,1.068,7.314,Shot Creator,Anchor Big
+203960,Jakarr Sampson,2021,IND,PF,10.905,-1.778,-1.25,-0.528,0.126,Roll + Cut Big,Helper
+203967,Dario Šarić,2021,PHO,C,17.411,0.373,0.022,0.351,1.552,Versatile Big,Anchor Big
+203991,Clint Capela,2021,ATL,C,30.134,3.259,0.586,2.673,6.864,Roll + Cut Big,Anchor Big
+203992,Bogdan Bogdanović,2021,ATL,SG,29.669,-0.064,0.642,-0.705,1.959,Off Screen Shooter,Chaser
+203994,Jusuf Nurkić,2021,POR,C,23.787,2.448,-0.171,2.62,2.736,Post Scorer,Anchor Big
+203999,Nikola Jokić,2021,DEN,C,34.556,6.653,5.79,0.863,13.95,Shot Creator,Mobile Big
+204001,Kristaps Porziņģis,2021,DAL,C,30.852,1.632,1.181,0.452,3.437,Versatile Big,Anchor Big
+204020,Tyler Johnson,2021,BRK,SG,17.535,-2.143,-0.406,-1.738,0.114,Stationary Shooter,Point of Attack
+204038,Langston Galloway,2021,PHO,SG,10.942,-2.088,-0.886,-1.202,0.089,Off Screen Shooter,Low Activity
+204060,Joe Ingles,2021,UTA,SF,27.859,1.619,1.572,0.047,4.821,Primary Ball Handler,Chaser
+204456,T.J. Mcconnell,2021,IND,PG,26.032,1.002,0.85,0.151,3.928,Slasher,Point of Attack
+1626143,Jahlil Okafor,2021,DET,C,12.861,-3.329,-2.376,-0.953,-0.2,Post Scorer,Anchor Big
+1626145,Tyus Jones,2021,MEM,PG,17.464,-1.267,-0.425,-0.842,0.888,Primary Ball Handler,Point of Attack
+1626149,Montrezl Harrell,2021,LAL,C,22.904,1.234,0.528,0.706,3.692,Post Scorer,Mobile Big
+1626153,Delon Wright,2021,DET/SAC,PG,27.746,1.079,0.232,0.847,3.909,Primary Ball Handler,Point of Attack
+1626156,D'Angelo Russell,2021,MIN,PG,28.483,-0.839,1.358,-2.197,1.198,Primary Ball Handler,Chaser
+1626157,Karl-Anthony Towns,2021,MIN,C,33.78,3.474,3.055,0.419,6.332,Shot Creator,Anchor Big
+1626158,Richaun Holmes,2021,SAC,C,29.205,0.685,0.258,0.426,3.533,Roll + Cut Big,Anchor Big
+1626159,Justise Winslow,2021,MEM,SF,19.503,-2.602,-2.768,0.166,-0.062,Slasher,Wing Stopper
+1626161,Willie Cauley-Stein,2021,DAL,C,17.094,0.379,-1.44,1.819,1.618,Roll + Cut Big,Anchor Big
+1626162,Kelly Oubre Jr.,2021,GSW,SF,30.682,-0.869,-0.694,-0.175,1.656,Movement Shooter,Wing Stopper
+1626163,Frank Kaminsky,2021,PHO,C,15.21,1.123,0.539,0.585,1.619,Stretch Big,Anchor Big
+1626164,Devin Booker,2021,PHO,SG,33.883,1.979,2.986,-1.007,6.383,Shot Creator,Chaser
+1626166,Cameron Payne,2021,PHO,PG,17.992,0.848,1.009,-0.16,2.254,Primary Ball Handler,Point of Attack
+1626167,Myles Turner,2021,IND,C,30.965,1.83,-0.782,2.612,3.954,Stretch Big,Mobile Big
+1626168,Trey Lyles,2021,SAS,PF,15.558,-1.516,-1.311,-0.204,0.203,Movement Shooter,Wing Stopper
+1626169,Stanley Johnson,2021,TOR,PF,16.485,-1.374,-2.273,0.898,0.661,Movement Shooter,Wing Stopper
+1626171,Bobby Portis,2021,MIL,C,20.792,0.06,0.05,0.01,2.169,Post Scorer,Anchor Big
+1626172,Kevon Looney,2021,GSW,C,19.028,-0.338,-1.016,0.678,1.537,Roll + Cut Big,Anchor Big
+1626174,Christian Wood,2021,HOU,C,32.34,0.665,0.532,0.133,2.613,Shot Creator,Mobile Big
+1626179,Terry Rozier,2021,CHO,SG,34.541,-0.427,1.139,-1.566,3.018,Primary Ball Handler,Point of Attack
+1626181,Norman Powell,2021,TOR/POR,SF,31.963,0.024,0.572,-0.548,3.434,Movement Shooter,Chaser
+1626184,Chasson Randle,2021,ORL,PG,20.416,-3.775,-2.55,-1.225,-0.712,Primary Ball Handler,Point of Attack
+1626192,Pat Connaughton,2021,MIL,SG,22.82,0.062,-0.347,0.409,2.491,Stationary Shooter,Chaser
+1626195,Willy Hernangomez,2021,NOP,C,18.005,0.505,0.544,-0.039,1.58,Post Scorer,Anchor Big
+1626196,Josh Richardson,2021,DAL,SG,30.422,-0.513,-0.124,-0.389,2.173,Movement Shooter,Point of Attack
+1626204,Larry Nance Jr.,2021,CLE,PF,31.185,0.228,-1.637,1.866,1.843,Stretch Big,Wing Stopper
+1626220,Royce O'Neale,2021,UTA,SF,31.557,0.881,-0.661,1.542,4.727,Stationary Shooter,Wing Stopper
+1626224,Cedi Osman,2021,CLE,SF,25.602,-1.93,-0.657,-1.273,0.457,Movement Shooter,Chaser
+1627732,Ben Simmons,2021,PHI,PG,32.369,2.673,0.592,2.082,6.103,Shot Creator,Point of Attack
+1627734,Domantas Sabonis,2021,IND,PF,35.992,1.069,0.19,0.879,4.976,Post Scorer,Helper
+1627736,Malik Beasley,2021,MIN,SG,32.811,-0.866,0.403,-1.27,1.194,Off Screen Shooter,Chaser
+1627741,Buddy Hield,2021,SAC,SG,34.266,0.145,0.842,-0.697,3.978,Off Screen Shooter,Chaser
+1627742,Brandon Ingram,2021,NOP,SF,34.304,0.468,1.364,-0.896,3.857,Shot Creator,Low Activity
+1627745,Damian Jones,2021,PHO/LAL/SAC,C,13.992,-1.195,-1.889,0.694,0.421,Roll + Cut Big,Anchor Big
+1627747,Caris Levert,2021,BRK/IND,SG,31.604,-1.461,0.019,-1.48,0.894,Shot Creator,Chaser
+1627749,Dejounte Murray,2021,SAS,PG,31.932,1.165,-0.284,1.45,4.904,Slasher,Point of Attack
+1627750,Jamal Murray,2021,DEN,PG,35.494,2.049,2.02,0.028,4.866,Shot Creator,Point of Attack
+1627751,Jakob Poeltl,2021,SAS,C,26.743,0.95,-1.066,2.016,3.974,Roll + Cut Big,Anchor Big
+1627752,Taurean Prince,2021,BRK/CLE,PF,22.079,-1.588,-0.885,-0.703,0.471,Movement Shooter,Helper
+1627756,Denzel Valentine,2021,CHI,SG,16.706,-0.566,-0.864,0.298,1.219,Movement Shooter,Low Activity
+1627759,Jaylen Brown,2021,BOS,SG,34.461,0.068,0.486,-0.417,3.17,Movement Shooter,Helper
+1627761,Deandre' Bembry,2021,TOR,SF,19.056,-1.267,-1.907,0.64,0.706,Athletic Finisher,Point of Attack
+1627763,Malcolm Brogdon,2021,IND,PG,34.459,1.056,2.458,-1.402,4.287,Primary Ball Handler,Point of Attack
+1627774,Jake Layman,2021,MIN,SF,13.938,-1.946,-1.913,-0.033,0.183,Movement Shooter,Helper
+1627777,Georges Niang,2021,UTA,PF,16.034,-0.305,-0.463,0.158,1.553,Stationary Shooter,Low Activity
+1627783,Pascal Siakam,2021,TOR,PF,35.824,2.352,1.525,0.827,6.115,Shot Creator,Helper
+1627788,Furkan Korkmaz,2021,PHI,SG,19.301,0.089,0.662,-0.573,1.698,Movement Shooter,Low Activity
+1627789,Timothe Luwawu-Cabarrot,2021,BRK,SF,18.108,-0.8,-0.133,-0.667,1.078,Movement Shooter,Chaser
+1627814,Damion Lee,2021,GSW,SG,18.928,-1.156,-1.1,-0.056,0.86,Off Screen Shooter,Helper
+1627823,Juancho Hernangomez,2021,MIN,PF,17.308,-0.966,0.297,-1.263,0.828,Movement Shooter,Low Activity
+1627826,Ivica Zubac,2021,LAC,C,22.342,0.527,-0.772,1.3,3.027,Roll + Cut Big,Anchor Big
+1627827,Dorian Finney-Smith,2021,DAL,PF,31.92,0.737,-0.256,0.993,3.862,Stationary Shooter,Wing Stopper
+1627832,Fred Vanvleet,2021,TOR,SG,36.511,2.714,1.788,0.926,6.22,Primary Ball Handler,Point of Attack
+1627846,Abdel Nader,2021,PHO,SF,14.801,-1.391,-1.661,0.27,0.23,Stationary Shooter,Helper
+1627853,Ryan Arcidiacono,2021,CHI,PG,10.234,-1.02,-1.442,0.422,0.398,Movement Shooter,Point of Attack
+1627854,Bryn Forbes,2021,MIL,SG,19.348,-1.451,-0.075,-1.376,0.824,Off Screen Shooter,Low Activity
+1627863,Danuel House Jr.,2021,HOU,SF,25.899,-2.627,-2.076,-0.552,-0.129,Movement Shooter,Helper
+1627884,Derrick Jones Jr.,2021,POR,SF,22.725,-1.639,-1.296,-0.343,0.643,Stationary Shooter,Wing Stopper
+1627936,Alex Caruso,2021,LAL,PG,20.966,1.482,-0.546,2.029,3.034,Primary Ball Handler,Point of Attack
+1628021,David Nwaba,2021,HOU,SF,22.619,-0.583,-0.813,0.23,0.791,Athletic Finisher,Chaser
+1628365,Markelle Fultz,2021,ORL,PG,26.9,-0.735,-0.997,0.262,0.23,Slasher,Point of Attack
+1628366,Lonzo Ball,2021,NOP,PG,31.768,1.257,0.969,0.288,4.108,Primary Ball Handler,Point of Attack
+1628367,Josh Jackson,2021,DET,SG,25.155,-1.825,-1.737,-0.088,0.576,Movement Shooter,Chaser
+1628368,De'Aaron Fox,2021,SAC,PG,35.106,1.132,2.166,-1.034,4.623,Shot Creator,Point of Attack
+1628369,Jayson Tatum,2021,BOS,SF,35.776,3.221,2.377,0.844,8.225,Shot Creator,Helper
+1628370,Malik Monk,2021,CHO,SG,20.914,-1.067,0.259,-1.327,0.75,Movement Shooter,Chaser
+1628372,Dennis Smith Jr.,2021,NYK/DET,PG,18.262,-0.848,-0.785,-0.062,0.418,Primary Ball Handler,Point of Attack
+1628374,Lauri Markkanen,2021,CHI,PF,25.832,-1.067,-0.481,-0.586,1.126,Movement Shooter,Helper
+1628378,Donovan Mitchell,2021,UTA,PG,33.424,1.695,3.731,-2.035,4.661,Primary Ball Handler,Chaser
+1628379,Luke Kennard,2021,LAC,SG,19.559,-1.662,-0.164,-1.498,0.583,Movement Shooter,Low Activity
+1628381,John Collins,2021,ATL,PF,29.336,1.34,1.362,-0.022,4.443,Post Scorer,Helper
+1628382,Justin Jackson,2021,OKC/MIL,SF,16.966,-1.513,-1.053,-0.46,0.328,Stationary Shooter,Chaser
+1628383,Justin Patton,2021,HOU,C,18.982,-0.445,-1.368,0.923,0.31,Stretch Big,Anchor Big
+1628384,Og Anunoby,2021,TOR,SF,33.331,-0.747,-1.303,0.555,1.519,Shot Creator,Wing Stopper
+1628386,Jarrett Allen,2021,BRK/CLE,C,29.582,-0.23,-0.494,0.264,2.596,Roll + Cut Big,Anchor Big
+1628389,Bam Adebayo,2021,MIA,C,33.478,2.336,0.431,1.905,6.509,Shot Creator,Mobile Big
+1628391,D.J. Wilson,2021,MIL/HOU,PF,12.36,-0.77,-1.14,0.37,0.452,Movement Shooter,Mobile Big
+1628392,Isaiah Hartenstein,2021,DEN/CLE,C,12.15,1.212,-0.472,1.684,1.298,Roll + Cut Big,Mobile Big
+1628396,Tony Bradley,2021,PHI/OKC,C,16.286,-0.14,-0.832,0.693,0.993,Roll + Cut Big,Anchor Big
+1628398,Kyle Kuzma,2021,LAL,SF,28.739,-1.001,-1.125,0.124,1.752,Movement Shooter,Helper
+1628400,Semi Ojeleye,2021,BOS,PF,16.961,-2.554,-1.791,-0.763,-0.087,Stationary Shooter,Helper
+1628401,Derrick White,2021,SAS,SG,29.543,1.02,0.677,0.343,2.338,Primary Ball Handler,Chaser
+1628402,Frank Jackson,2021,DET,PG,18.455,-2.554,-0.567,-1.987,-0.068,Off Screen Shooter,Chaser
+1628404,Josh Hart,2021,NOP,SF,28.712,-0.983,-0.726,-0.258,1.226,Stationary Shooter,Wing Stopper
+1628407,Dwayne Bacon,2021,ORL,SG,25.732,-3.926,-2.211,-1.715,-1.745,Secondary Ball Handler,Chaser
+1628408,Pj Dozier,2021,DEN,SG,21.767,0.239,-0.684,0.923,1.846,Secondary Ball Handler,Chaser
+1628410,Edmond Sumner,2021,IND,SG,16.25,-2.588,-1.718,-0.87,-0.098,Stationary Shooter,Chaser
+1628411,Wes Iwundu,2021,DAL/NOP,SF,13.054,-2.392,-2.388,-0.004,0.005,Stationary Shooter,Chaser
+1628414,Sindarius Thornwell,2021,NOP/ORL,SG,10.325,-0.656,-0.964,0.308,0.243,Stationary Shooter,Chaser
+1628415,Dillon Brooks,2021,MEM,SF,29.801,-0.464,-0.577,0.113,2.481,Secondary Ball Handler,Wing Stopper
+1628418,Thomas Bryant,2021,WAS,C,27.085,0.446,-0.439,0.885,0.495,Roll + Cut Big,Anchor Big
+1628420,Monté Morris,2021,DEN,PG,25.45,-0.46,0.475,-0.935,1.489,Primary Ball Handler,Point of Attack
+1628422,Damyean Dotson,2021,CLE,SG,19.722,-2.99,-1.378,-1.612,-0.331,Secondary Ball Handler,Chaser
+1628425,Sterling Brown,2021,HOU,SG,24.092,-2.236,-1.83,-0.406,0.133,Movement Shooter,Chaser
+1628436,Luke Kornet,2021,CHI/BOS,C,11.208,0.164,-1.182,1.346,0.573,Stretch Big,Anchor Big
+1628449,Chris Boucher,2021,TOR,C,24.212,1.412,0.964,0.447,3.559,Stretch Big,Helper
+1628455,Mike James,2021,BRK,PG,18.154,-1.05,0.123,-1.174,0.204,Shot Creator,Point of Attack
+1628464,Daniel Theis,2021,BOS/CHI,C,24.625,0.143,-0.802,0.945,2.615,Stretch Big,Anchor Big
+1628467,Maxi Kleber,2021,DAL,PF,26.816,-0.977,-1.58,0.602,1.223,Stationary Shooter,Helper
+1628470,Torrey Craig,2021,MIL/PHO,SF,16.068,-0.599,-0.394,-0.205,0.928,Stationary Shooter,Wing Stopper
+1628539,Mychal Mulder,2021,GSW,PG,12.761,-1.365,-0.352,-1.013,0.508,Off Screen Shooter,Chaser
+1628778,Paul Watson,2021,TOR,SF,10.986,-1.861,-0.823,-1.038,0.103,Movement Shooter,Helper
+1628960,Grayson Allen,2021,MEM,SG,25.189,-0.222,0.06,-0.282,1.761,Off Screen Shooter,Chaser
+1628963,Marvin Bagley Iii,2021,SAC,PF,25.857,-0.323,-0.029,-0.294,1.483,Post Scorer,Helper
+1628964,Mo Bamba,2021,ORL,C,15.752,0.186,-0.203,0.389,1.204,Stretch Big,Anchor Big
+1628969,Mikal Bridges,2021,PHO,SF,32.608,1.896,0.836,1.061,6.478,Stationary Shooter,Point of Attack
+1628970,Miles Bridges,2021,CHO,PF,29.271,-1.108,-0.727,-0.381,1.6,Movement Shooter,Wing Stopper
+1628971,Bruce Brown,2021,BRK,PG,22.326,1.307,0.611,0.696,3.458,Athletic Finisher,Point of Attack
+1628972,Troy Brown Jr.,2021,WAS/CHI,SF,15.393,-0.73,-1.143,0.413,0.561,Stationary Shooter,Chaser
+1628973,Jalen Brunson,2021,DAL,PG,24.96,0.628,0.97,-0.342,3.304,Primary Ball Handler,Point of Attack
+1628975,Jevon Carter,2021,PHO,PG,11.943,0.319,0.13,0.188,1.252,Movement Shooter,Point of Attack
+1628976,Wendell Carter Jr.,2021,CHI/ORL,C,25.469,-0.061,-0.967,0.907,2.066,Roll + Cut Big,Anchor Big
+1628977,Hamidou Diallo,2021,OKC/DET,SF,23.579,-2.459,-1.719,-0.74,-0.04,Athletic Finisher,Chaser
+1628978,Donte Divincenzo,2021,MIL,SG,27.492,2.263,0.812,1.451,5.429,Movement Shooter,Chaser
+1628983,Shai Gilgeous-Alexander,2021,OKC,SG,33.705,0.82,1.647,-0.827,2.442,Shot Creator,Chaser
+1628984,Devonte' Graham,2021,CHO,PG,30.157,1.131,1.719,-0.588,3.765,Primary Ball Handler,Chaser
+1628988,Aaron Holiday,2021,IND,PG,17.819,-1.419,-0.769,-0.65,0.739,Movement Shooter,Chaser
+1628989,Kevin Huerter,2021,ATL,SG,30.811,0.492,0.093,0.398,3.952,Movement Shooter,Chaser
+1628990,Chandler Hutchison,2021,CHI/WAS,SF,13.83,-1.607,-1.911,0.304,0.176,Athletic Finisher,Chaser
+1628991,Jaren Jackson Jr.,2021,MEM,C,23.497,0.905,0.544,0.361,0.549,Stationary Shooter,Anchor Big
+1628995,Kevin Knox Ii,2021,NYK,SF,11.056,-2.48,-1.371,-1.109,-0.021,Stationary Shooter,Low Activity
+1628997,Caleb Martin,2021,CHO,SF,15.443,-1.687,-1.096,-0.591,0.374,Movement Shooter,Point of Attack
+1628998,Cody Martin,2021,CHO,SF,16.329,-0.454,-1.127,0.673,1.06,Stationary Shooter,Point of Attack
+1629001,De'Anthony Melton,2021,MEM,PG,20.1,0.827,0.229,0.598,2.169,Secondary Ball Handler,Chaser
+1629002,Chimezie Metu,2021,SAC,C,13.556,-1.459,-1.722,0.263,0.294,Roll + Cut Big,Helper
+1629003,Shake Milton,2021,PHI,SG,23.189,-1.183,0.028,-1.211,1.14,Primary Ball Handler,Low Activity
+1629004,Svi Mykhailiuk,2021,DET/OKC,SF,20.066,-1.402,-0.731,-0.672,0.847,Off Screen Shooter,Low Activity
+1629006,Josh Okogie,2021,MIN,SG,20.286,-0.554,-1.619,1.065,1.418,Stationary Shooter,Point of Attack
+1629008,Michael Porter Jr.,2021,DEN,SF,31.349,1.098,1.5,-0.403,4.3,Movement Shooter,Helper
+1629010,Jerome Robinson,2021,WAS,SG,17.935,-2.375,-2.455,0.08,0.006,Secondary Ball Handler,Chaser
+1629011,Mitchell Robinson,2021,NYK,C,27.502,0.331,-0.707,1.038,1.497,Athletic Finisher,Mobile Big
+1629012,Collin Sexton,2021,CLE,SG,35.254,-1.178,0.776,-1.955,1.656,Slasher,Chaser
+1629013,Landry Shamet,2021,BRK,SG,22.994,-2.212,-0.804,-1.407,0.174,Movement Shooter,Chaser
+1629014,Anfernee Simons,2021,POR,SG,17.257,-2.624,-0.015,-2.609,-0.151,Secondary Ball Handler,Low Activity
+1629018,Gary Trent Jr.,2021,POR/TOR,SG,31.067,-2.603,-0.059,-2.544,-0.222,Off Screen Shooter,Chaser
+1629020,Jarred Vanderbilt,2021,MIN,PF,17.802,1.485,-0.696,2.181,2.845,Roll + Cut Big,Helper
+1629021,Moritz Wagner,2021,WAS/BOS/ORL,C,16.041,-0.595,-1.063,0.468,0.836,Stretch Big,Helper
+1629022,Lonnie Walker Iv,2021,SAS,SG,25.364,-3.038,-1.416,-1.622,-0.602,Movement Shooter,Wing Stopper
+1629023,P.J. Washington,2021,CHO,PF,30.527,-0.56,-1.403,0.843,2.307,Stretch Big,Wing Stopper
+1629026,Kenrich Williams,2021,OKC,PF,21.606,-1.73,-2,0.27,0.613,Athletic Finisher,Chaser
+1629027,Trae Young,2021,ATL,PG,33.725,1.506,4.001,-2.496,5.333,Primary Ball Handler,Chaser
+1629028,Deandre Ayton,2021,PHO,C,30.647,1.153,0.237,0.916,4.831,Post Scorer,Anchor Big
+1629029,Luka Dončić,2021,DAL,PG,34.153,4.065,4.543,-0.477,9.265,Shot Creator,Low Activity
+1629048,Goga Bitadze,2021,IND,C,12.471,0.741,0.108,0.633,1.133,Stretch Big,Mobile Big
+1629052,Oshae Brissett,2021,IND,SF,24.72,0.076,0.164,-0.088,0.826,Stationary Shooter,Helper
+1629056,Terence Davis,2021,TOR/SAC,SG,17.607,-1.086,-0.569,-0.517,0.905,Movement Shooter,Chaser
+1629057,Robert Williams Iii,2021,BOS,C,18.949,2.407,0.232,2.175,3.038,Roll + Cut Big,Anchor Big
+1629060,Rui Hachimura,2021,WAS,PF,31.53,-0.876,-1.461,0.586,1.756,Shot Creator,Wing Stopper
+1629067,Isaac Bonga,2021,WAS,SF,10.797,-3.054,-3.921,0.867,-0.175,Stationary Shooter,Helper
+1629076,Tyler Cook,2021,BRK/DET,SF,13.665,-2.784,-1.678,-1.106,-0.103,Post Scorer,Mobile Big
+1629109,Gary Clark,2021,ORL/DEN/PHI,SF,16.763,-2.535,-2.34,-0.195,-0.053,Stationary Shooter,Helper
+1629117,Wenyen Gabriel,2021,NOP,PF,11.467,-0.96,-1.436,0.475,0.222,Stationary Shooter,Helper
+1629130,Duncan Robinson,2021,MIA,SF,31.412,1.032,-0.333,1.365,4.99,Off Screen Shooter,Low Activity
+1629134,Kendrick Nunn,2021,MIA,PG,29.469,0.126,0.446,-0.32,2.678,Primary Ball Handler,Point of Attack
+1629139,Yuta Watanabe,2021,TOR,SF,14.456,-0.404,-1.371,0.967,0.926,Movement Shooter,Helper
+1629162,Jordan Mclaughlin,2021,MIN,PG,18.393,0.593,-0.057,0.65,1.805,Primary Ball Handler,Point of Attack
+1629164,Brandon Goodwin,2021,ATL,PG,13.182,-0.872,-0.172,-0.7,0.607,Primary Ball Handler,Point of Attack
+1629185,Chris Chiozza,2021,BRK,PG,10.564,0.843,0.741,0.102,0.485,Movement Shooter,Point of Attack
+1629216,Gabe Vincent,2021,MIA,PG,13.096,-1.868,-1.033,-0.835,0.224,Secondary Ball Handler,Point of Attack
+1629234,Drew Eubanks,2021,SAS,C,13.987,0.068,-1.026,1.094,1.197,Roll + Cut Big,Anchor Big
+1629308,Juan Toscano-Anderson,2021,GSW,SG,20.895,-0.656,-2.223,1.567,1.239,Stationary Shooter,Helper
+1629610,Daquan Jeffries,2021,SAC/HOU,SG,15.896,-0.998,-1.14,0.142,0.443,Movement Shooter,Helper
+1629611,Terance Mann,2021,LAC,SG,18.853,0.184,0.089,0.095,2.097,Athletic Finisher,Point of Attack
+1629622,Max Strus,2021,MIA,SF,12.988,-1.611,-0.398,-1.212,0.256,Off Screen Shooter,Chaser
+1629627,Zion Williamson,2021,NOP,PF,33.212,2.494,3.118,-0.624,6.356,Shot Creator,Low Activity
+1629628,Rj Barrett,2021,NYK,SG,34.873,-1.853,-1.116,-0.737,0.883,Slasher,Helper
+1629629,Cam Reddish,2021,ATL,SF,28.858,-0.959,-1.104,0.145,0.693,Movement Shooter,Wing Stopper
+1629630,Ja Morant,2021,MEM,PG,32.585,1.208,2.27,-1.062,4.761,Slasher,Point of Attack
+1629631,De'Andre Hunter,2021,ATL,SF,29.472,-0.006,-0.128,0.122,1.042,Stationary Shooter,Wing Stopper
+1629632,Coby White,2021,CHI,PG,31.244,-1.644,-0.792,-0.852,1.046,Primary Ball Handler,Point of Attack
+1629633,Jarrett Culver,2021,MIN,SG,14.678,-1.476,-1.567,0.091,0.296,Movement Shooter,Chaser
+1629634,Brandon Clarke,2021,MEM,PF,23.98,1.222,-0.056,1.278,3.294,Athletic Finisher,Helper
+1629635,Sekou Doumbouya,2021,DET,PF,15.519,-3.839,-2.582,-1.257,-0.773,Stationary Shooter,Helper
+1629636,Darius Garland,2021,CLE,PG,33.147,-1.231,-0.258,-0.973,1.341,Primary Ball Handler,Point of Attack
+1629637,Jaxson Hayes,2021,NOP,C,16.061,0.07,-0.552,0.622,1.529,Roll + Cut Big,Anchor Big
+1629638,Nickeil Alexander-Walker,2021,NOP,SG,21.888,-0.824,-0.898,0.074,1.017,Primary Ball Handler,Chaser
+1629639,Tyler Herro,2021,MIA,SG,30.281,-1.65,-0.395,-1.255,0.787,Primary Ball Handler,Chaser
+1629640,Keldon Johnson,2021,SAS,SF,28.519,-0.587,-0.841,0.254,2.289,Athletic Finisher,Wing Stopper
+1629641,Romeo Langford,2021,BOS,SG,15.707,-2.904,-2.416,-0.488,-0.088,Stationary Shooter,Helper
+1629642,Nassir Little,2021,POR,PF,13.341,-2.631,-1.37,-1.261,-0.09,Movement Shooter,Helper
+1629643,Chuma Okeke,2021,ORL,PF,25.168,-1.894,-1.774,-0.12,0.368,Movement Shooter,Helper
+1629644,Kz Okpala,2021,MIA,PF,12.079,-2.149,-2.379,0.231,0.073,Stationary Shooter,Helper
+1629645,Kevin Porter Jr.,2021,HOU,SG,32.134,-0.867,0.508,-1.375,0.821,Shot Creator,Point of Attack
+1629647,Darius Bazley,2021,OKC,PF,31.168,-2.478,-2.289,-0.189,-0.076,Secondary Ball Handler,Helper
+1629649,Ignas Brazdeikis,2021,NYK/PHI/ORL,SF,19.138,-1.596,-1.161,-0.435,0.128,Movement Shooter,Helper
+1629650,Moses Brown,2021,OKC,C,21.402,-0.45,-1.22,0.769,1.151,Roll + Cut Big,Anchor Big
+1629651,Nic Claxton,2021,BRK,C,18.573,1.045,-0.78,1.825,1.316,Roll + Cut Big,Mobile Big
+1629652,Luguentz Dort,2021,OKC,SG,29.678,-1.33,-0.952,-0.379,1.058,Secondary Ball Handler,Point of Attack
+1629655,Daniel Gafford,2021,CHI/WAS,C,14.655,1.676,-0.125,1.8,2.072,Roll + Cut Big,Anchor Big
+1629658,Jaylen Hoard,2021,OKC,SF,16.82,-1.236,-1.171,-0.065,0.238,Athletic Finisher,Helper
+1629659,Talen Horton-Tucker,2021,LAL,SG,20.066,-0.733,-0.979,0.246,1.395,Slasher,Chaser
+1629660,Ty Jerome,2021,OKC,SG,23.872,-1.76,-1.004,-0.756,0.324,Primary Ball Handler,Low Activity
+1629661,Cameron Johnson,2021,PHO,PF,23.957,1.025,0.407,0.618,3.165,Stationary Shooter,Helper
+1629667,Jalen Mcdaniels,2021,CHO,SF,19.226,-1.369,-0.941,-0.428,0.597,Stationary Shooter,Helper
+1629669,Jaylen Nowell,2021,MIN,SG,18.072,-0.672,0.286,-0.958,0.841,Secondary Ball Handler,Chaser
+1629672,Eric Paschall,2021,GSW,PF,17.374,-1.603,-0.89,-0.713,0.355,Shot Creator,Mobile Big
+1629673,Jordan Poole,2021,GSW,SG,19.37,-1.224,0.636,-1.86,0.744,Off Screen Shooter,Low Activity
+1629675,Naz Reid,2021,MIN,C,19.239,0.297,-0.335,0.632,2.334,Roll + Cut Big,Anchor Big
+1629676,Isaiah Roby,2021,OKC,PF,23.364,-2.742,-2.52,-0.222,-0.3,Athletic Finisher,Anchor Big
+1629680,Matisse Thybulle,2021,PHI,SG,19.966,0.274,-1.725,1.999,2.23,Stationary Shooter,Point of Attack
+1629684,Grant Williams,2021,BOS,PF,18.061,-1.087,-2.119,1.032,0.958,Stationary Shooter,Helper
+1629685,Dylan Windler,2021,CLE,SF,16.541,-0.997,-1.564,0.566,0.461,Movement Shooter,Chaser
+1629717,Armoni Brooks,2021,HOU,SG,26.018,-1.73,0.004,-1.733,0.224,Movement Shooter,Low Activity
+1629723,John Konchar,2021,MEM,SG,13.372,-1.018,-0.715,-0.303,0.509,Stationary Shooter,Chaser
+1629726,Garrison Mathews,2021,WAS,SG,16.217,-1.843,-1.615,-0.229,0.371,Movement Shooter,Chaser
+1629731,Dean Wade,2021,CLE,PF,19.239,-1.168,-1.615,0.447,0.957,Movement Shooter,Wing Stopper
+1629740,Nicolo Melli,2021,NOP/DAL,PF,12.581,-0.222,-0.246,0.023,0.792,Movement Shooter,Helper
+1629750,Javonte Green,2021,BOS/CHI,SF,11.553,-0.881,-1.389,0.509,0.461,Athletic Finisher,Chaser
+1630162,Anthony Edwards,2021,MIN,SG,32.141,-1.351,0.154,-1.506,1.555,Shot Creator,Chaser
+1630163,Lamelo Ball,2021,CHO,PG,28.796,-0.006,0.355,-0.361,2.259,Primary Ball Handler,Chaser
+1630164,James Wiseman,2021,GSW,C,21.434,-3.01,-3.041,0.031,-0.316,Post Scorer,Anchor Big
+1630165,Killian Hayes,2021,DET,PG,25.778,-3.152,-3.054,-0.097,-0.312,Primary Ball Handler,Point of Attack
+1630166,Deni Avdija,2021,WAS,SF,23.275,-0.612,-2.184,1.572,1.442,Stationary Shooter,Wing Stopper
+1630167,Obi Toppin,2021,NYK,PF,11.016,-1.424,-0.819,-0.605,0.427,Stationary Shooter,Low Activity
+1630168,Onyeka Okongwu,2021,ATL,C,12.024,-0.285,-1.472,1.187,0.816,Roll + Cut Big,Anchor Big
+1630169,Tyrese Haliburton,2021,SAC,PG,30.098,-1.626,0.256,-1.882,0.867,Primary Ball Handler,Chaser
+1630170,Devin Vassell,2021,SAS,SF,17.032,-1.008,-1.54,0.532,0.942,Stationary Shooter,Chaser
+1630171,Isaac Okoro,2021,CLE,SG,32.435,-2.543,-2.318,-0.226,-0.186,Movement Shooter,Point of Attack
+1630172,Patrick Williams,2021,CHI,PF,27.935,-2.522,-2.637,0.115,-0.143,Athletic Finisher,Wing Stopper
+1630173,Precious Achiuwa,2021,MIA,PF,12.084,-1.091,-1.757,0.665,0.618,Roll + Cut Big,Mobile Big
+1630174,Aaron Nesmith,2021,BOS,SF,14.537,-1.98,-1.776,-0.204,0.181,Movement Shooter,Low Activity
+1630175,Cole Anthony,2021,ORL,PG,27.082,-2.079,-1.515,-0.565,0.264,Primary Ball Handler,Point of Attack
+1630177,Theo Maledon,2021,OKC,PG,27.35,-3.681,-3.086,-0.596,-1.409,Primary Ball Handler,Point of Attack
+1630178,Tyrese Maxey,2021,PHI,SG,15.335,-1.603,-0.31,-1.293,0.478,Slasher,Point of Attack
+1630180,Saddiq Bey,2021,DET,SF,27.272,-1.919,-0.819,-1.1,0.591,Movement Shooter,Helper
+1630181,R.J. Hampton,2021,DEN/ORL,SG,17.416,-2.548,-1.222,-1.326,-0.079,Secondary Ball Handler,Chaser
+1630182,Josh Green,2021,DAL,SG,11.4,-1.642,-1.441,-0.201,0.216,Athletic Finisher,Low Activity
+1630183,Jaden Mcdaniels,2021,MIN,PF,23.98,-1.961,-2.333,0.371,0.427,Movement Shooter,Wing Stopper
+1630184,Kira Lewis Jr.,2021,NOP,PG,16.748,-0.702,-0.519,-0.183,0.985,Primary Ball Handler,Point of Attack
+1630185,Nico Mannion,2021,GSW,PG,12.129,-1.809,-1.113,-0.696,0.138,Primary Ball Handler,Point of Attack
+1630191,Isaiah Stewart,2021,DET,C,21.394,0.086,-1.448,1.534,2.324,Roll + Cut Big,Mobile Big
+1630193,Immanuel Quickley,2021,NYK,PG,19.428,-0.531,0.95,-1.481,1.491,Primary Ball Handler,Point of Attack
+1630197,Aleksej Pokusevski,2021,OKC,PF,24.219,-3.874,-3.659,-0.215,-0.993,Secondary Ball Handler,Low Activity
+1630201,Malachi Flynn,2021,TOR,PG,19.734,-1.606,-1.332,-0.273,0.472,Primary Ball Handler,Point of Attack
+1630202,Payton Pritchard,2021,BOS,SG,19.206,-1.186,-0.116,-1.069,0.987,Primary Ball Handler,Point of Attack
+1630205,Lamar Stevens,2021,CLE,PF,12.467,-0.954,-1.609,0.655,0.462,Athletic Finisher,Chaser
+1630214,Xavier Tillman,2021,MEM,PF,18.385,0.429,-0.951,1.38,1.972,Roll + Cut Big,Mobile Big
+1630217,Desmond Bane,2021,MEM,SG,22.337,-1.113,-0.852,-0.261,1.252,Movement Shooter,Chaser
+1630221,Josh Hall,2021,OKC,SF,16,-2.698,-2.524,-0.174,-0.061,Stationary Shooter,Low Activity
+1630222,Mason Jones,2021,HOU/PHI,SG,10.453,-1.142,-0.415,-0.727,0.27,Secondary Ball Handler,Chaser
+1630230,Naji Marshall,2021,NOP,SF,21.864,-0.572,-1.203,0.631,0.821,Stationary Shooter,Wing Stopper
+1630231,Kj Martin,2021,HOU,SF,23.726,-0.994,-0.449,-0.545,0.962,Stretch Big,Low Activity
+1630235,Trent Forrest,2021,UTA,PG,10.067,-1.768,-0.955,-0.814,0.122,Secondary Ball Handler,Point of Attack
+1630237,Anthony Lamb,2021,HOU,SF,17.299,-1.932,-1.291,-0.641,0.125,Movement Shooter,Helper
+1630240,Saben Lee,2021,DET,PG,16.262,-1.774,-1.557,-0.217,0.314,Slasher,Point of Attack
+1630256,Jae'Sean Tate,2021,HOU,SF,29.182,-0.175,-0.357,0.182,2.918,Stationary Shooter,Helper
+1630267,Facundo Campazzo,2021,DEN,PG,21.919,-0.13,-0.385,0.255,2.077,Primary Ball Handler,Point of Attack
+1630271,Brodric Thomas,2021,HOU/CLE,SG,12.477,-1.141,-1.062,-0.079,0.322,Secondary Ball Handler,Point of Attack
+1630273,Freddie Gillespie,2021,TOR,PF,19.595,-1.959,-2.547,0.588,0.111,Roll + Cut Big,Mobile Big
+1630466,Gabriel Deck,2021,OKC,PF,21.16,-0.422,-0.158,-0.265,0.269,Post Scorer,Helper
