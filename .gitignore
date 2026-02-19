@@ -188,3 +188,7 @@ data/*.sq*
 data/*/*.sq*
 data/*.SQ*
 data/*/*.SQ*
+
+!data/00-raw/
+!data/00-raw/darko_raw.json
+!data/00-raw/raptor_raw.json
