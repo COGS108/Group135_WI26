@@ -1,3 +1,9 @@
+# ignore my checkpoints
+#01-*.ipynb
+#02-*.ipynb
+#03-*.ipynb
+#.ipynb_checkpoints/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -188,7 +194,10 @@ data/*.sq*
 data/*/*.sq*
 data/*.SQ*
 data/*/*.SQ*
+<<<<<<< HEAD
 
 !data/00-raw/
 !data/00-raw/darko_raw.json
 !data/00-raw/raptor_raw.json
+=======
+>>>>>>> TS-OnOff
