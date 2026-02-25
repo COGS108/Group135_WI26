@@ -2,7 +2,7 @@
 
 Don't ever edit your raw data. Especially not manually. And especially not in Excel.
 
-The most important features of a quality data analysis are correctness and reproducibility —a nyone should be able to re-run your analysis using only your code and raw data and produce the same final products.
+The most important features of a quality data analysis are correctness and reproducibility —anyone should be able to re-run your analysis using only your code and raw data and produce the same final products.
 
 These directories are setup for this desire.
 
